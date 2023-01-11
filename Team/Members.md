@@ -1,2 +1,2 @@
-Thomas TACHERON (Git Master)
-Jonas SOUEIDAN (Product Owner)
+Thomas TACHERON
+Jonas SOUEIDAN
